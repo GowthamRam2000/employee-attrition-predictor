@@ -269,7 +269,7 @@ with st.sidebar:
     Saravanan GS m24de3070
     Rajendra Panda m24de3091
     **Version:** 1.0.0  
-    **Last Updated:** 2024
+    **Last Updated:** 2025
     """)
 
 # Main content based on selected page
@@ -662,6 +662,6 @@ elif page == "Model Performance":
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #666; padding: 1rem;'>
-    <p>Employee Retention Analytics Platform | Built with Deep Learning | © 2024</p>
+    <p>Employee Retention Analytics Platform | Built with Deep Learning | © 2025</p>
 </div>
 """, unsafe_allow_html=True)
