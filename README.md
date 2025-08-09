@@ -1,0 +1,1 @@
+python train_model.py --data WA_Fn-UseC_-HR-Employee-Attrition.csv --epochs 100 --use_smote
